@@ -1,6 +1,9 @@
 <?php
 require_once "classes/Producto.php";
 
+
+// test
+
 $secciones_validas = [
     "home" => [
         "titulo" => "Inicio"
